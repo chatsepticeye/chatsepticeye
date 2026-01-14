@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋 I'm Chaitanya!
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=e23cseu2378&theme=dark&font=Segoe%20UI)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chatsepticeye&theme=dark)
 
 <!--
 **chatsepticeye/chatsepticeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
