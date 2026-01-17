@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Chaitanya!
-
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/e23cseu2378?theme=Dark)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chatsepticeye&theme=dark)
