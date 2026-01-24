@@ -1,14 +1,11 @@
 ### Hi there 👋 I'm Chaitanya!
-![LeetCode Streak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%20Streak&query=streak&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fe23cseu2378)
+# Hi there 👋 I'm Chaitanya!
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chatsepticeye&theme=dark)](https://git.io/streak-stats)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=e23cseu2378&theme=dark)](https://git.io/streak-stats)
 <a href="https://leetcode.com/e23cseu2378/">
   <img src="https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
 </a>
-
 <!--
 **chatsepticeye/chatsepticeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
