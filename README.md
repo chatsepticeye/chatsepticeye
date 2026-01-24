@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Chaitanya!
-[![LeetCode Stats](https://leetcode-badge.vercel.app/api/users/e23cseu2378/badge)](https://leetcode.com/e23cseu2378/)
+![LeetCode Streak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%20Streak&query=streak&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fe23cseu2378)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter)
 
