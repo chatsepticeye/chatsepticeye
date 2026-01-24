@@ -1,7 +1,9 @@
-### Hi there 👋 I'm Chaitanya!
+
 # Hi there 👋 I'm Chaitanya!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chatsepticeye&theme=dark)](https://git.io/streak-stats)
+
+![LeetCode Streak](https://leetcode-streak-badge.vercel.app/?user=e23cseu2378&theme=dark&hide_border=true)
 
 <a href="https://leetcode.com/e23cseu2378/">
   <img src="https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
