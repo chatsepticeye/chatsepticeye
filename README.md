@@ -3,7 +3,11 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chatsepticeye&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chatsepticeye&theme=dark)](https://git.io/streak-stats)
+
+<a href="https://leetcode.com/e23cseu2378/">
+  <img src="https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
 <!--
 **chatsepticeye/chatsepticeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
