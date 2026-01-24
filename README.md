@@ -3,8 +3,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chatsepticeye&theme=dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=e23cseu2378&theme=dark)](https://git.io/streak-stats)
 <a href="https://leetcode.com/e23cseu2378/">
   <img src="https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
 </a>
