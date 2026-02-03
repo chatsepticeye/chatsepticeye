@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Chaitanya!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chatsepticeye&theme=dark&hide_border=true)](https://github.com/chatsepticeye)
-![LeetCode Stats](https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=M_PLUS_Rounded_1c&ext=heatmap)
+
 [![LeetCode Streak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Streak&query=streak&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fe23cseu2378&color=orange&logo=leetcode&logoColor=yellow)](https://leetcode.com/e23cseu2378/)
 <a href="https://leetcode.com/e23cseu2378/">
   <img src="https://leetcard.jacoblin.cool/e23cseu2378?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
