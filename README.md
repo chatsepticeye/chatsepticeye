@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Chaitanya!
-# Hi there 👋 I'm Chaitanya!
+[![LeetCode Streak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Streak&query=streak&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fe23cseu2378&color=orange&logo=leetcode&logoColor=yellow)](https://leetcode.com/e23cseu2378/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chatsepticeye&theme=dark&hide_border=true)](https://github.com/chatsepticeye)
 
